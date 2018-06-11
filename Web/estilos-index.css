@@ -1,0 +1,287 @@
+main{
+  position: relative;;
+}
+
+.content-one{
+  width: 100%;
+}
+
+.content-portada{
+  width: 100%;
+  height: 450px;
+  background-image: url(Fondo1.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin-top: auto;
+  position: relative;
+  overflow: hidden;
+}
+
+#Dubai{
+              background-color: white;
+              height: 375px;
+              width: 100%;
+              margin: 1.5%;
+              float: left;
+              margin-left: 15%
+}
+
+#Roma{
+              background-color: white;
+              height: 375px;
+              width: 100%;
+              margin: 1.5%;
+              float: left;
+              margin-left: 15%;
+}
+
+#NuevaYork{
+              background-color: white;
+              height: 375px;
+              width: 100%;
+              margin: 1.5%;
+              float: left;
+              margin-left: 15%;
+}
+
+#Londres{
+              background-color: white;
+              height: 375px;
+              width: 100%;
+              margin: 1.5%;
+              float: left;
+              margin-left: 15%;
+}
+
+#textdubai{
+              height: 100;
+              max-width: 450px;
+              float: left;
+              background-color: white;
+              margin: auto;
+              text-align: justify;
+              margin-left: 20px;
+              font-size: 18px;
+              margin-top: 195px;
+}
+
+#textroma{
+              height: 100;
+              max-width: 450px;
+              float: left;
+              background-color: white;
+              margin: auto;
+              text-align: justify;
+              margin-left: 20px;
+              font-size: 18px;
+              margin-top: 175px;
+}
+
+#textNY{
+              height: 100;
+              max-width: 450px;
+              float: left;
+              background-color: white;
+              margin: auto;
+              text-align: justify;
+              margin-left: 20px;
+              font-size: 18px;
+              margin-top: 275px;
+}
+
+#textlondres{
+              height: 100;
+              max-width: 450px;
+              float: left;
+              background-color: white;
+              margin: auto;
+              text-align: justify;
+              margin-left: 20px;
+              font-size: 18px;
+              margin-top: 212px;
+}
+
+#Dubai img{
+              float: left;
+              width: 100%;
+              max-width: 600px;
+              overflow: hidden;
+}
+
+#Roma img{
+              float: left;
+              width: 100%;
+              max-width: 600px;
+              overflow: hidden;
+}
+
+#NuevaYork img{
+              float: left;
+              width: 100%;
+              max-width: 600px;
+              overflow: hidden;
+}
+
+#Londres img{
+              float: left;
+              width: 100%;
+              max-width: 600px;
+              overflow: hidden;
+}
+
+@media screen and (max-width:1600px){
+  .content-portada{
+    background-size: 2000px;
+  }
+}
+
+.content-item{
+  width: 500px;
+  margin: auto;
+  text-align: center;
+  position: relative;
+  top: 60px;
+}
+
+.content-item h4{
+  color: white;
+  font-size: 60px;
+  font-weight: 100;
+}
+
+.content-item h3{
+  color: white;
+  font-size: 60px;
+}
+
+.content-item h2{
+  color: white;
+  font-size: 40px;
+  font-weight: 100;
+}
+
+@media screen and (max-width:800px){
+  .content-item{
+    width: 100%;
+  }
+
+
+.principal {
+              width: 100%;
+              height: 1000px;
+              }
+
+
+
+h1  {
+        width: 400px;
+        font-size: 30px;
+        line-height: 36px;
+        font-weight: 900;
+        margin-bottom: auto;}
+
+
+#Dubai{
+              background-color: white;
+              height: 480px;
+              width: 100%;
+              margin: 1.5%;
+}
+
+#Roma{
+              background-color: white;
+              height: 500px;
+              width: 100%;
+              margin: 1.5%;
+}
+
+#NuevaYork{
+              background-color: white;
+              height: 450px;
+              width: 100%;
+              margin: 1.5%;
+}
+
+#Londres{
+              background-color: white;
+              height: 600px;
+              width: 100%;
+              margin: 1.5%;
+}
+
+#textdubai{
+              height: 400px;
+              max-width: 370px;
+              float: left;
+              background-color: white;
+              margin: auto;
+              text-align: justify;
+              font-size: 18px;
+              margin-top: 30px;
+}
+
+#textroma{
+              height: 100;
+              max-width: 370px;
+              float: left;
+              background-color: white;
+              margin: auto;
+              text-align: justify;
+              font-size: 18px;
+              margin-top: 30px;
+}
+
+#textNY{
+              height: 100;
+              max-width: 370px;
+              float: left;
+              background-color: white;
+              margin: auto;
+              text-align: justify;
+              font-size: 18px;
+              margin-top: 30px;
+}
+
+#textlondres{
+              height: 100;
+              max-width: 370px;
+              float: left;
+              background-color: white;
+              margin: auto;
+              text-align: justify;
+              font-size: 18px;
+              margin-top: 30px;
+}
+
+#Dubai img{
+              float: left;
+              width: 100%;
+              max-width: 600px;
+              overflow: hidden;
+}
+
+#Roma img{
+              float: left;
+              width: 100%;
+              max-width: 600px;
+              overflow: hidden;
+              margin-top: 40px;
+}
+
+#NuevaYork img{
+              float: left;
+              width: 100%;
+              max-width: 600px;
+              overflow: hidden;
+              margin-top: 5px;
+}
+
+#Londres img{
+              float: left;
+              width: 100%;
+              max-width: 600px;
+              overflow: hidden;
+              margin-top: 5px;
+}
+
+}

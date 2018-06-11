@@ -1,0 +1,398 @@
+#Portada img{
+
+              width: 100%;
+              max-width: 700px;
+              overflow: hidden;
+              margin-left: 25%;
+              margin-top: 5%;
+}
+
+#Portada p{
+            height: 200px;
+            width: 800px;
+            text-align: center;
+            margin-top: 20px;
+            margin-left: 21%;
+            font-size: 18px;
+            font-family: helvetica;
+}
+
+
+#Quehacer p{
+            width: 99%;
+            height: 100px;
+            font-size: 48px;
+            text-align: center;
+            color: red;
+            font-weight: bold;
+}
+
+h3{
+  margin-top: 10px;
+}
+
+.contenidorBSP{
+        height: 650px;
+        width: 42%;
+        background-color: #EFEFEF;
+        margin-left: 5%;
+        margin-top: 2%;
+        float: left;
+}
+
+#BasilicaSanPedro img{
+          width: 100%;
+          max-width: 500px;
+          overflow: hidden;
+          margin-left: 2%;
+          margin-top: 10%;
+}
+
+#BasilicaSanPedro p{
+          height: 100;
+          width: ;
+          text-align: justify;
+          margin-top: 10px;
+}
+
+.contenidorPanteon{
+        height: 650px;
+        width: 42%;
+        background-color: #EFEFEF;
+        margin-left: 5%;
+        margin-top: 2%;
+        float: left;
+}
+
+#Panteon img{
+          width: 100%;
+          max-width: 410px;
+          overflow: hidden;
+          margin-left: 2%;
+          margin-top: 10%;
+}
+
+#Panteon p{
+          height: 100;
+          width: ;
+          text-align: justify;
+          margin-top: 10px;
+}
+
+.contenidorColiseo{
+        height: 650px;
+        width: 42%;
+        background-color: #EFEFEF;
+        margin-left: 5%;
+        margin-top: 2%;
+        float: left;
+}
+
+#Coliseo img{
+          width: 100%;
+          max-width: 425px;
+          overflow: hidden;
+          margin-left: 2%;
+          margin-top: 10%;
+}
+
+#Coliseo p{
+          height: 100;
+          width: ;
+          text-align: justify;
+          margin-top: 10px;
+}
+
+.contenidorCS{
+        height: 650px;
+        width: 42%;
+        background-color: #EFEFEF;
+        margin-left: 5%;
+        margin-top: 2%;
+        float: left;
+}
+
+#CapillaSixtina img{
+          width: 100%;
+          max-width: 450px;
+          overflow: hidden;
+          margin-left: 2%;
+          margin-top: 10%;
+}
+
+#CapillaSixtina p{
+          height: 100;
+          width: ;
+          text-align: justify;
+          margin-top: 10px;
+          font-style: italic;
+}
+
+.contenidorFDT{
+        height: 650px;
+        width: 42%;
+        background-color: #EFEFEF;
+        margin-left: 5%;
+        margin-top: 2%;
+        float: left;
+}
+
+#FontanaDiTrevi img{
+          width: 100%;
+          max-width: 450px;
+          overflow: hidden;
+          margin-left: 2%;
+          margin-top: 10%;
+}
+
+#FontanaDiTrevi p{
+          height: 100;
+          width: ;
+          text-align: justify;
+          margin-top: 10px;
+}
+
+.contenidorFR{
+        height: 650px;
+        width: 42%;
+        background-color: #EFEFEF;
+        margin-left: 5%;
+        margin-top: 2%;
+        float: left;
+}
+
+#ForumRoma img{
+          width: 100%;
+          max-width: 500px;
+          overflow: hidden;
+          margin-left: 2%;
+          margin-top: 10%;
+}
+
+#ForumRoma p{
+          height: 100;
+          width: ;
+          text-align: justify;
+          margin-top: 10px;
+}
+
+.contenidorMVM{
+        height: 650px;
+        width: 42%;
+        background-color: #EFEFEF;
+        margin-left: 5%;
+        margin-top: 2%;
+        float: left;
+}
+
+#MonumentVictorManuel img{
+          width: 100%;
+          max-width: 500px;
+          overflow: hidden;
+          margin-left: 2%;
+          margin-top: 10%;
+}
+
+#MonumentVictorManuel p{
+          height: 100;
+          width: ;
+          text-align: justify;
+          margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1600px){
+  .content-portada{
+    background-size: 2000px;
+  }
+}
+
+@media screen and (max-width:800px){
+  .content-item{
+    width: 100%;
+  }
+
+
+#Portada img{
+
+              width: 100%;
+              max-width: 700px;
+              overflow: hidden;
+              margin-left: 0px;
+}
+
+#Portada p{
+            height: 400px;
+            width: 225px;
+            margin-left: 10%;
+            margin-top: 20px;
+            font-size: 18px;
+            font-family: helvetica;
+}
+
+#Quehacer p{
+            width: 99%;
+            height: 200px;
+            font-size: 24px;
+}
+
+.contenidorBSP{
+              height: 600px;
+              width: 98%;
+              max-width: 400px;
+              float: left;
+              background-color: #EFEFEF;
+              margin: auto;
+              text-align: justify;
+              font-size: 18px;
+}
+
+#BasilicaSanPedro img{
+              float: left;
+              width: 100%;
+              max-width: #EFEFEF;
+              overflow: hidden;
+}
+
+.contenidorPanteon{
+              height: 850px;
+              width: 98%;
+              max-width: 400px;
+              float: left;
+              background-color: #EFEFEF;
+              margin: auto;
+              text-align: justify;
+              font-size: 18px;
+}
+
+#Panteon img{
+              float: left;
+              width: 100%;
+              max-width: #EFEFEF;
+              overflow: hidden;
+}
+
+.contenidorColiseo{
+              height: 700px;
+              width: 98%;
+              max-width: 400px;
+              float: left;
+              background-color: #EFEFEF;
+              margin: auto;
+              text-align: justify;
+              font-size: 18px;
+}
+
+#Coliseo img{
+              float: left;
+              width: 100%;
+              max-width: #EFEFEF;
+              overflow: hidden;
+}
+
+.contenidorCS{
+              height: 850px;
+              width: 98%;
+              max-width: 400px;
+              float: left;
+              background-color: #EFEFEF;
+              margin: auto;
+              text-align: justify;
+              font-size: 18px;
+}
+
+#CapillaSixtina img{
+              float: left;
+              width: 100%;
+              max-width: #EFEFEF;
+              overflow: hidden;
+}
+
+.contenidorFDT{
+              height: 650px;
+              width: 98%;
+              max-width: 400px;
+              float: left;
+              background-color: #EFEFEF;
+              margin: auto;
+              text-align: justify;
+              font-size: 18px;
+}
+
+#FontanaDiTrevi img{
+              float: left;
+              width: 100%;
+              max-width: #EFEFEF;
+              overflow: hidden;
+}
+
+.contenidorFR{
+              height: 550px;
+              width: 98%;
+              max-width: 400px;
+              float: left;
+              background-color: #EFEFEF;
+              margin: auto;
+              text-align: justify;
+              font-size: 18px;
+              margin-top: 10%;
+}
+
+#ForumRoma img{
+              float: left;
+              width: 100%;
+              max-width: #EFEFEF;
+              overflow: hidden;
+              margin-top: 10%;
+}
+
+.contenidorMVM{
+              height: 100;
+              width: 98%;
+              max-width: 400px;
+              float: left;
+              background-color: #EFEFEF;
+              margin: auto;
+              text-align: justify;
+              font-size: 18px;
+}
+
+#MonumentVictorManuel img{
+              float: left;
+              width: 100%;
+              max-width: #EFEFEF;
+              overflow: hidden;
+}
+
+
+
+
+}

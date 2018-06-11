@@ -1,0 +1,34 @@
+#foto img{
+  width: 100%;
+  max-width: 700px;
+  overflow: hidden;
+
+  float: left;
+  margin-left: 2%;
+}
+
+.Contactanos{
+  height: 200px;
+  width: 40%;
+  float: left;
+  margin-top: 10%;
+}
+
+
+
+h1{
+  height: 100px;
+  width: 85%;
+  margin-left: 40%;
+  margin-top: 3%;
+}
+
+li{
+  height: 100;
+  max-width: 450px;
+  background-color: white;
+  margin: auto;
+  text-align: justify;
+  font-size: 24px;
+
+}
