@@ -2,12 +2,10 @@
   width: 100%;
   max-width: 700px;
   overflow: hidden;
-
   float: left;
-  margin-left: 2%;
 }
 
-.QS{
+.Contactanos{
   height: 200px;
   width: 40%;
   float: left;
@@ -23,7 +21,8 @@ h1{
 }
 
 p{
-  height: 100;
+  height: 200px;
+  width: 380px;
   max-width: 450px;
   background-color: white;
   margin: auto;
